@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # C23-PS093 || Bangkit Capstone Project (TravelYours)
 
 <p align="center">
